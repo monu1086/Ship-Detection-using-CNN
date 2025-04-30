@@ -13,3 +13,21 @@ The project uses the [ShipsNet dataset](https://www.kaggle.com/datasets/rhammell
 - Labels: `1` for ship, `0` for no-ship
 
 Make sure to place the dataset in:
+
+---
+
+## 🧠 Model
+
+- Model: ResNet-18 (pretrained on ImageNet)
+- Task: Binary classification (Ship vs No Ship)
+- Input image size: Resized to 224x224
+- Loss function: CrossEntropyLoss
+- Optimizer: Adam
+
+---
+
+## 🚀 How to Run
+
+1. Install required libraries:
+```bash
+
