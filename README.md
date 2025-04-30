@@ -30,4 +30,40 @@ Make sure to place the dataset in:
 
 1. Install required libraries:
 ```bash
+pip install -r requirements.txt
+python ship_detection.py
+ship_detector.pth
+Epoch 1 completed.
+Epoch 2 completed.
+...
+Model saved!
+📦 Requirements
+torch
+
+torchvision
+
+opencv-python
+
+scikit-learn
+
+numpy
+
+📊 Future Work
+Upgrade to object detection using YOLO or Faster R-CNN
+
+Add evaluation metrics like accuracy, precision, recall
+
+Build a web demo using Flask or Streamlit
+
+📌 Project Structure
+kotlin
+Copy
+Edit
+ship-detection-project/
+│
+├── data/
+│   └── shipsnet/
+├── ship_detection.py
+├── requirements.txt
+└── README.md
 
