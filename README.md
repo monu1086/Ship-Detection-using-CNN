@@ -103,4 +103,4 @@ ship-detection-project/
 
 **Monish Sai**  
 Machine Learning & Computer Vision Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/your-profile) • [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/monishmuddaka/) • [Email](monumuddaka@gmail.com)
